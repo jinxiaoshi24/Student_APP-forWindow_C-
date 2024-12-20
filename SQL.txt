@@ -1,0 +1,369 @@
+Create table Khoa
+(
+	makhoa nchar(5) primary key,
+	tenkhoa nvarchar(20),
+)
+
+Create table MonHoc
+(
+	mamh nchar(5) primary key,
+	tenmh nvarchar(20),
+	sotiet int,
+	sodaudiemkt int,
+	sotinchi int
+)
+
+create table Account
+(
+	taikhoan nvarchar(20) primary key,
+	pass nvarchar(20),
+	type_user nchar(5),
+)
+
+Create table GiaoVien
+(
+	magv nchar(5) primary key,
+	hotengv nvarchar(30),
+	ngaysinh date,
+	gioitinh nchar(3),
+	diachi nvarchar(50),
+	sdt nchar(10),
+	taikhoan nvarchar(20),
+	makhoa nchar(5),
+	FOREIGN KEY (makhoa) REFERENCES Khoa(makhoa),
+	FOREIGN KEY (taikhoan) REFERENCES Account(taikhoan),
+)
+
+Create table Lop
+(
+	malop nchar(5)  primary key,
+	tenlop nvarchar(20),
+	makhoa nchar(5),
+	magv nchar(5),
+	FOREIGN KEY (magv) REFERENCES GiaoVien(magv),
+	FOREIGN KEY (makhoa) REFERENCES Khoa(makhoa),
+)
+Create table SinhVien
+(
+	masv nchar(5) primary key,
+	hotensv nvarchar(30),
+	ngaysinh date,
+	gioitinh nchar(3),
+	diachi nvarchar(50),
+	sdt nchar(10),
+	taikhoan nvarchar(20),
+	malop nchar(5),
+	FOREIGN KEY (malop) REFERENCES Lop(malop),
+	FOREIGN KEY (taikhoan) REFERENCES Account(taikhoan),
+)
+
+Create table Diem
+(
+	mamh nchar(5),
+	masv nchar(5),
+	diemthuongxuyen decimal(4,2) default 0,
+	diemkt1 decimal(4,2) default 0,
+	diemkt2 decimal(4,2) default 0,
+	diemkt3 decimal(4,2) default 0,
+	diemkt4 decimal(4,2) default 0,
+	diemkt5 decimal(4,2) default 0,
+	tbdiemthanhphan decimal(4,2) default null,
+	diemthi decimal(4,2) default 0,
+	diemtongket decimal(4,2) default null,
+	quamon bit default 0,
+	ghichu nchar(20)
+	primary key(mamh,masv),
+	FOREIGN KEY (mamh) REFERENCES MonHoc(mamh),
+	FOREIGN KEY (masv) REFERENCES SinhVien(masv),
+)
+
+
+
+Create table PhanCong
+(
+	magv nchar(5),
+	mamh nchar(5),
+	malop nchar(5),
+	namhoc int,
+	hocky int,
+	primary key(magv,mamh,malop),
+	FOREIGN KEY (magv) REFERENCES GiaoVien(magv),
+	FOREIGN KEY (mamh) REFERENCES MonHoc(mamh),
+	FOREIGN KEY (malop) REFERENCES Lop(malop),
+)
+
+
+--Data Khoa--
+insert into Khoa values ('MK01','CNTT');
+insert into Khoa values ('MK02','O To');
+
+--Data Mon Hoc--
+insert into MonHoc values ('MH01','The Duc','50','3','2');
+insert into MonHoc values ('MH02','Quoc Phong','60','4','1');
+insert into MonHoc values ('MH03','ChinhTRi','55','2','5');
+
+
+--Data Account--
+
+insert into Account values ('admin','admin','admin');
+insert into Account values ('GV01','123','GV');
+insert into Account values ('GV02','123','GV');
+insert into Account values ('GV03','123','GV');
+insert into Account values ('GV04','123','GV');
+insert into Account values ('GV05','123','GV');
+insert into Account values ('GV06','123','GV');
+insert into Account values ('GV07','123','GV');
+insert into Account values ('GV08','123','GV');
+insert into Account values ('GV09','123','GV');
+insert into Account values ('SV01','123','SV');
+insert into Account values ('SV02','123','SV');
+insert into Account values ('SV03','123','SV');
+insert into Account values ('SV04','123','SV');
+insert into Account values ('SV05','123','SV');
+insert into Account values ('SV06','123','SV');
+insert into Account values ('SV07','123','SV');
+insert into Account values ('SV08','123','SV');
+insert into Account values ('SV09','123','SV');
+insert into Account values ('SV10','123','SV');
+insert into Account values ('SV11','123','SV');
+insert into Account values ('SV12','123','SV');
+insert into Account values ('SV13','123','SV');
+insert into Account values ('SV14','123','SV');
+insert into Account values ('SV15','123','SV');
+insert into Account values ('SV16','123','SV');
+insert into Account values ('SV17','123','SV');
+insert into Account values ('SV18','123','SV');
+insert into Account values ('SV19','123','SV');
+insert into Account values ('SV20','123','SV');
+insert into Account values ('SV21','123','SV');
+insert into Account values ('SV22','123','SV');
+insert into Account values ('SV23','123','SV');
+insert into Account values ('SV24','123','SV');
+insert into Account values ('SV25','123','SV');
+insert into Account values ('SV26','123','SV');
+insert into Account values ('SV27','123','SV');
+
+
+--Data GV--
+insert into GiaoVien  values ('GV01','Nguyen Thi Le','1983-02-21','Nữ','Ha Nam','0123456789','GV01','MK01');
+insert into GiaoVien  values ('GV02','Nguyen Gia Phuc','1975-09-15','Nam','Ha Noi','0111111111','GV02','MK01');
+insert into GiaoVien  values ('GV03','Trinh Kim Lien','1985-10-01','Nữ','Ha Nam','0222222222','GV03','MK01');
+insert into GiaoVien  values ('GV04','Nguyen Thi Nhung','1985-09-15','Nữ','Ha Noi','0333333333','GV04','MK01');
+insert into GiaoVien  values ('GV05','Tran Thi Ngan','1976-12-02','Nữ','Ha Noi','0444444444','GV05','MK01');
+insert into GiaoVien  values ('GV06','Doan Vu Giang ','1985-06-15','Nam','Ha Noi','0555555555','GV06','MK02');
+insert into GiaoVien  values ('GV07','Nguyen Hai Anh','1983-02-21','Nữ','Ha Noi','0666666666','GV07','MK02');
+insert into GiaoVien  values ('GV08','Nguyen Hong Phuong','1983-02-21','Nam','Ha Noi','0777777777','GV08','MK02');
+insert into GiaoVien  values ('GV09','Doan Duc Phuc','1986-08-20','Nam','Ha Noi','0888888888','GV09','MK02');
+
+
+--Data Lop--
+insert into Lop values ('ML01','CD45CNTT','MK01','GV01');
+insert into Lop values ('ML02','CD45DoHoa','MK01','GV02');
+insert into Lop values ('ML03','CD45OTO1','MK02','GV03');
+
+--insert into Lop values ('ML04','CD46CNTT','MK01','GV04');
+--insert into Lop values ('ML05','CD45OTO2','MK02','GV05');
+--insert into Lop values ('ML06','CD46OTO1','MK02','GV06');
+
+
+--insert into Lop values ('ML07','CD45KinhTe1','MK03','GV07');
+--insert into Lop values ('ML08','CD45KinhTe2','MK03','GV08');
+--insert into Lop values ('ML09','CD46KinhTe1','MK03','GV08');
+
+
+--Data SV--
+insert into SinhVien values ('SV01','Nguyen Van An','2001-02-21','Nam','Ha Nam','0548416151','SV01','ML01');
+insert into SinhVien values ('SV02','Nguyen Thi Binh','2002-09-15','Nữ','Ha Noi','0548915155','SV02','ML01');
+insert into SinhVien values ('SV03','Le Van Cao','1999-10-01','Nam','Ha Nam','0951651515','SV03','ML01');
+insert into SinhVien values ('SV04','Le Thi Duyen','2002-09-15','Nữ','Ha Noi','0256151515','SV04','ML01');
+insert into SinhVien values ('SV05','Tran Van Em','2003-12-02','Nam','Ha Noi','0845165156','SV05','ML01');
+insert into SinhVien values ('SV06','Tran Thi Pho','2001-06-15','Nữ','Ha Noi','0466848165','SV06','ML01');
+insert into SinhVien values ('SV07','Phan Van Giang','2003-02-21','Nam','Ha Noi','0611145154','SV07','ML01');
+insert into SinhVien values ('SV08','Pham Thi Huong','2002-02-21','Nữ','Ha Noi','0846165156','SV08','ML01');
+insert into SinhVien values ('SV09','Vu Van Kien','2001-08-20','Nam','Ha Noi','0616568186','SV09','ML01');
+insert into SinhVien values ('SV10','Bui Thi Tuyet','2003-05-01','Nữ','Ha Noi','0611144589','SV10','ML02');
+insert into SinhVien values ('SV11','Pham Thi Hung','2002-11-21','Nữ','Hung Yen','0846165156','SV11','ML02');
+insert into SinhVien values ('SV12','Vu Tuan Anh','2001-08-22','Nam','Thai Nguyen','0616668186','SV12','ML02');
+insert into SinhVien values ('SV13','Phan Tuan Tai','2003-02-21','Nam','Hoa Binh','0611177154','SV13','ML02');
+insert into SinhVien values ('SV14','Pham Thi Trinh','2002-02-21','Nữ','Lang Son','0811165156','SV14','ML02');
+insert into SinhVien values ('SV15','Vu Dai','2003-08-20','Nam','Hai Duong','0616568186','SV15','ML02');
+insert into SinhVien values ('SV16','Dang Thi Tuyet','2002-04-04','Nữ','Ha Tinh','0600145154','SV16','ML02');
+insert into SinhVien values ('SV17','Phan Ba Vanh','2004-02-21','Nam','Soc Son','0846222144','SV17','ML02');
+insert into SinhVien values ('SV18','TRan Dinh Hung','2001-07-20','Nam','Ninh Binh','0648448596','SV18','ML02');
+insert into SinhVien values ('SV19','Tran Kim Tuyem','2003-12-21','Nữ','Thai Binh','0633145154','SV19','ML03');
+insert into SinhVien values ('SV20','Pham Thi Nhi','2002-06-21','Nữ','Hai Phong','0846256156','SV20','ML03');
+insert into SinhVien values ('SV21','Tran Quoc Oai','2001-08-20','Nam','Dak Lak','0616556896','SV21','ML03');
+insert into SinhVien values ('SV22','Phan Van Giang','2002-03-21','Nam','Da Nang','0677745154','SV22','ML03');
+insert into SinhVien values ('SV23','Nguyen Thị Dinh','2002-09-12','Nữ','Ha Giang','0846123156','SV23','ML03');
+insert into SinhVien values ('SV24','Vu Tuan Anh','2001-08-01','Nam','Hoa Binh','0614568186','SV24','ML03');
+insert into SinhVien values ('SV25','Vu Trong Phung','2003-08-21','Nam','Khanh Hoa','0615965154','SV25','ML03');
+insert into SinhVien values ('SV26','Dinh Van Tuan','2002-02-21','Nam','BAc Kan','0848965156','SV26','ML03');
+insert into SinhVien values ('SV27','Hoang Thi Ngan','2001-01-20','Nữ','Lai Chau','0616567596','SV27','ML03');
+
+
+--Data PhanCong--
+insert into PhanCong values ('GV01','MH01','ML01','2023','1');
+insert into PhanCong values ('GV02','MH01','ML02','2022','2');
+insert into PhanCong values ('GV03','MH01','ML03','2023','2');
+insert into PhanCong values ('GV04','MH02','ML01','2023','1');
+insert into PhanCong values ('GV05','MH02','ML02','2021','2');
+insert into PhanCong values ('GV06','MH02','ML03','2023','2');
+insert into PhanCong values ('GV07','MH03','ML01','2021','1');
+insert into PhanCong values ('GV08','MH03','ML02','2023','2');
+insert into PhanCong values ('GV09','MH03','ML03','2023','1');
+
+--Data Diem--
+--MH1:3 dau diem  
+--MH02:4 dau diem  
+--MH03:2 dau diem 
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV01' ,'5','5','9','6','5');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV02' ,'4.5','6','9','1','3');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV03' ,'7','3','8','6','4');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV04' ,'10','8','9','7','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV05' ,'9','10','9','9','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV06' ,'6','5','8','7','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV07' ,'7','6','3','2','10');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV08' ,'3','6','8','9','3');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV09' ,'4','4','6','9','4');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV10','9','5','6','7','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV11','3','4','5','6','7');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV12','2','5','6','7','5');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV13','5','6','7','4','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV14','10','5','9','6','5');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV15','6','2','8','8','3');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV16','5','8','0','4','4');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV17','6','8','6','0','8');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemthi) values('MH01','SV18','10','9','10','8','9');
+
+
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV01' ,'5','5','9','9','6','5');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV02' ,'4.5','6','9','1','6','3');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV03' ,'7','3','8','6','4','8');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV04' ,'10','6','8','9','7','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV05' ,'9','6','10','9','9','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV06' ,'6','5','8','7','6','8');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV07' ,'7','6','3','8','10','8');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV08' ,'3','6','8','3','9','3');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV09' ,'4','4','4','6','6','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV19','9','5','9','6','7','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV20','3','4','5','4','6','7');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV21','2','5','6','9','7','5');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV22','5','6','7','6','4','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV23','10','5','0','9','6','5');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV24','6','2','6','8','8','3');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV25','5','8','0','6','4','4');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV26','6','8','6','9','0','8');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemkt3,diemkt4,diemthi) values('MH02','SV27','10','9','10','6','8','9');
+
+
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV10' ,'5','5','9','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV11' ,'4.5','6','9','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV12' ,'7','3','8','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV13' ,'10','8','9','7');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV14' ,'9','10','9','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV15' ,'6','5','8','7');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV16' ,'7','6','3','2');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV17' ,'3','6','8','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV18' ,'4','4','6','9');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV19','9','5','6','7');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV20','3','4','5','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV21','2','5','6','7');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV22','5','6','7','4');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV23','10','5','9','6');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV24','6','2','8','8');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV25','5','8','0','4');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV26','6','8','6','0');
+insert into Diem(mamh, masv, diemthuongxuyen, diemkt1,diemkt2,diemthi) values('MH03','SV27','5','5','5','4');
+
+
+
+
+
+CREATE PROCEDURE SP_Update_tbdiemthanhphan_QuaMon_GhiChu
+AS
+BEGIN
+	UPDATE Diem
+	SET tbdiemthanhphan = (((Diem.diemthuongxuyen+((Diem.diemkt1+Diem.diemkt2+Diem.diemkt3+Diem.diemkt4+Diem.diemkt5)*2))/(MonHoc.sodaudiemkt*2+1))) FROM Diem,MonHoc
+	WHERE Diem.mamh=MonHoc.mamh
+
+	UPDATE Diem 
+	SET quamon = 
+		CASE
+			WHEN tbdiemthanhphan < 5 THEN '0'
+			else '1'
+		END
+	FROM Diem
+
+	UPDATE Diem 
+	SET ghichu = 
+		CASE
+			WHEN tbdiemthanhphan < 5 THEN 'HL'
+			else null
+		END
+	FROM Diem
+
+	UPDATE Diem
+	SET diemthi =
+		CASE 
+			WHEN Diem.ghichu = 'HL' then '0'
+			else Diem.diemthi
+		END
+	FROM Diem
+
+	UPDATE Diem
+	SET diemtongket =
+		CASE 
+			WHEN Diem.ghichu = 'HL' then '0'
+			else Diem.diemtongket
+		END
+	FROM Diem
+END
+GO
+
+
+CREATE PROCEDURE SP_Update_diemtongket_QuaMon_GhiChu
+AS
+BEGIN
+	UPDATE Diem
+	SET diemtongket = (tbdiemthanhphan*0.4+diemthi*0.6) FROM Diem,MonHoc
+	WHERE Diem.mamh=MonHoc.mamh
+
+	UPDATE Diem 
+	SET quamon = 
+		CASE
+			WHEN tbdiemthanhphan >= 5 and diemtongket>=5  THEN '1'
+			ELSE '0'
+		END
+	FROM Diem
+
+	UPDATE Diem 
+	SET ghichu = 
+		CASE
+			WHEN  Diem.quamon=1 THEN null
+			WHEN tbdiemthanhphan >= 5 AND diemtongket < 5 and Diem.quamon=0 THEN 'TL'
+			ELSE 'HL'
+		END
+	FROM Diem
+
+		UPDATE Diem
+	SET diemthi =
+		CASE 
+			WHEN Diem.ghichu = 'HL' then '0'
+			else Diem.diemthi
+		END
+	FROM Diem
+
+	UPDATE Diem
+	SET diemtongket =
+		CASE 
+			WHEN Diem.ghichu = 'HL' then '0'
+			else Diem.diemtongket
+		END
+	FROM Diem
+END
+GO
+
+exec SP_Update_tbdiemthanhphan_QuaMon_GhiChu
+
+exec SP_Update_diemtongket_QuaMon_GhiChu
+

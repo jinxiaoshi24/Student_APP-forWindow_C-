@@ -1,0 +1,1962 @@
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\GUI.exe.config
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\GUI.exe
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\GUI.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.exe
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\GUI.exe.config
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\GUI.exe
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\GUI.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.exe
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\GUI.exe.config
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\GUI.exe
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\GUI.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.exe
+D:\CODE\XDPMQL\Test\QLSV(Team2)\GUI\obj\Debug\GUI.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinLopChuNhiem.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemSV.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK\NTK\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.Test.Test2.resources
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinSP.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinSP.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK3\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinSP.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\GUI.exe.config
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\GUI.exe
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\GUI.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\EnvDTE.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\stdole.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_Login.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_ThongTinSP.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.cache
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\RdlCompile.compiled
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.exe
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\GUI\obj\Debug\GUI.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.exe.config
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.exe
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\BLL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\EnvDTE.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\stdole.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\BLL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.dll.config
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_Login.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_ThongTinSP.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.exe
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.exe.config
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.exe
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\BLL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\EnvDTE.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\stdole.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\BLL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.dll.config
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_Login.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_ThongTinSP.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.exe
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.pdb
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.exe.config
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.exe
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\GUI.pdb
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\BLL.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DTO.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\EnvDTE.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\stdole.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\BLL.pdb
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DTO.pdb
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.pdb
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\DAL.dll.config
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Account.FR_QuanLyAccount.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Account.FR_TimKiemAccount.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Diem.FR_QuanLyDiem.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Diem.FR_TimKiemDiem.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DanhSachPhanCong.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_Diem_CuaSV.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DoiMatKhau.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_Login.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_MDI.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_ThongTinCaNhan.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_DS_SV_LopChuNhiem.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_ThongTinSP.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.FR_XemDiemLopChuNhiem.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_BaoCaoGiaoVien.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_QuanLyGV.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.GiaoVien.FR_TimKiemGV.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Khoa.FR_QuanLyKhoa.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Khoa.FR_TimKiemKhoa.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Lop.FR_QuanLyLop.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Lop.FR_TimKiemLop.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.MonHoc.FR_QuanLyMonHoc.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.MonHoc.FR_TimKiemMonHoc.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.PhanCong.FR_QuanLyPhanCong.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.PhanCong.FR_TimKiemPhanCong.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.SinhVien.FR_QuanLySV.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.SinhVien.FR_TimKiemSV.resources
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.exe
+D:\Quản lý sinh viên\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\GUI\obj\Debug\GUI.pdb

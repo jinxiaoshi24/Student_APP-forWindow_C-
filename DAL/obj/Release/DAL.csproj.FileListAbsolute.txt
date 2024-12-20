@@ -1,0 +1,10 @@
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\bin\Release\DAL.dll.config
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\bin\Release\DAL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\bin\Release\DAL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\bin\Release\DTO.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\bin\Release\DTO.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\obj\Release\DAL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DAL\obj\Release\DAL.pdb

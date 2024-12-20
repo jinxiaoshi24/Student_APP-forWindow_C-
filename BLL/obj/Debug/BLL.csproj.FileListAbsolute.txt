@@ -1,0 +1,216 @@
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\obj\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\BLL\obj\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\obj\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\BLL\obj\Debug\BLL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\obj\Debug\BLL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\BLL\obj\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\CODE\XDPMQL\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK\NTK\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK\NTK\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK\NTK\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK\NTK\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK\NTK\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK\NTK\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK\NTK\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK\NTK\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK2\NTK(V0.3)\NTK(V0.1) (1)\NTK(V0.1)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK(V0.4)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK2\NTK(V0.5)\NTK(V0.4)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK2\NTK(V0.5)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\bin\Debug\BLL.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\bin\Debug\BLL.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\bin\Debug\DAL.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\bin\Debug\DAL.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\bin\Debug\DAL.dll.config
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\obj\Debug\BLL.dll
+D:\NTK2\NTK(V0.8)\QLSV(Team3)\BLL\obj\Debug\BLL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\bin\Debug\BLL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\bin\Debug\BLL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\bin\Debug\DAL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\bin\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\bin\Debug\DAL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\bin\Debug\DAL.dll.config
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\bin\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\bin\Debug\BLL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\bin\Debug\BLL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\bin\Debug\DAL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\bin\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\bin\Debug\DAL.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\bin\Debug\DAL.dll.config
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\bin\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\BLL\obj\Debug\BLL.pdb

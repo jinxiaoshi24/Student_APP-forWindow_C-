@@ -1,0 +1,41 @@
+D:\CODE\XDPMQL\CODE\QLSV(Team)\DTO\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\DTO\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team)\DTO\obj\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team)\DTO\obj\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\DTO\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\DTO\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\DTO\obj\Debug\DTO.dll
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\DTO\obj\Debug\DTO.pdb
+D:\CODE\XDPMQL\CODE\QLSV(Team2)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\DTO\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\DTO\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team2)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\Test\QLSV(Team2)\DTO\obj\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team2)\DTO\obj\Debug\DTO.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\DTO\bin\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\DTO\bin\Debug\DTO.pdb
+D:\CODE\XDPMQL\Test\QLSV(Team3)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CODE\XDPMQL\Test\QLSV(Team3)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CODE\XDPMQL\Test\QLSV(Team3)\DTO\obj\Debug\DTO.dll
+D:\CODE\XDPMQL\Test\QLSV(Team3)\DTO\obj\Debug\DTO.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\DTO\bin\Debug\DTO.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\DTO\bin\Debug\DTO.pdb
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\DTO\obj\Debug\DTO.dll
+D:\NTK2\NTK(V0.6)\QLSV(Team3)\DTO\obj\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\DTO\bin\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\DTO\bin\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\DTO\bin\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\DTO\bin\Debug\DTO.pdb
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.dll
+D:\Nhóm 4 Xây dựng phần mềm quả lí\QuanLiSinhVien_Solution\QuanLiSinhVien_Solution\DTO\obj\Debug\DTO.pdb

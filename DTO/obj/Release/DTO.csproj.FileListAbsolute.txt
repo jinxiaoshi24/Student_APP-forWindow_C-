@@ -1,0 +1,6 @@
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DTO\bin\Release\DTO.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DTO\bin\Release\DTO.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DTO\obj\Release\DTO.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\DTO\obj\Release\DTO.pdb

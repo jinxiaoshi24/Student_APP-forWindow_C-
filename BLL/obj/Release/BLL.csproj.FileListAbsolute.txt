@@ -1,0 +1,12 @@
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Release\BLL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Release\BLL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Release\DAL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Release\DTO.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Release\DAL.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Release\DAL.dll.config
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\bin\Release\DTO.pdb
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Release\BLL.dll
+D:\NTK(V0.7)\NTK(V0.7)\QLSV(Team3)\BLL\obj\Release\BLL.pdb
